@@ -3,4 +3,6 @@ user added to db
 This is data after tag V1.0  added
 
 
-This is newly added feature in feature 1
+This is newly added feature in feature
+
+git new line
